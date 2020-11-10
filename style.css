@@ -1,0 +1,27 @@
+#lLogo{
+  width: 40px;
+}
+
+#nav{
+  margin-top: 4rem;
+}
+
+#titularCard{
+  /*padding-top: 250px;*/
+  padding-top: 16rem;
+}
+
+.dropdwon{
+  
+}
+
+#susBtn, #logInBtn{
+  height: 40px;
+}
+
+.copyright li{
+  vertical-align: top;
+  display: inline;
+}
+
+
